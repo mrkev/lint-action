@@ -1,5 +1,5 @@
-name: Lint Action
-author: Samuel Meuli
+name: mrkev's Lint Action
+author: Samuel Meuli & Kevin Chavez
 description: GitHub Action for detecting and fixing linting errors
 
 inputs:
